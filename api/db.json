@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "category": "smartphones",
+      "category": "Smartphones",
       "manufacturer": "Apple",
       "title": "Iphone 15 Pro Max",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "category": "laptops",
+      "category": "Laptops",
       "manufacturer": "Apple",
       "title": "Macbook Pro M3 Pro",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "category": "laptops",
+      "category": "Laptops",
       "manufacturer": "ASUS",
       "title": "Zenbook 14x OLED",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "category": "laptops",
+      "category": "Laptops",
       "manufacturer": "ASUS",
       "title": "Zenbook 15 OLED",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "category": "smartphones",
+      "category": "Smartphones",
       "manufacturer": "ASUS",
       "title": "Zenfone 10",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "category": "monitors",
+      "category": "Monitors",
       "manufacturer": "AOC",
       "title": "AGON G27Q2S",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "category": "monitors",
+      "category": "Monitors",
       "manufacturer": "ASUS",
       "title": "ROG Swift OLED PG27AQDM",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "category": "laptops",
+      "category": "Laptops",
       "manufacturer": "ASUS",
       "title": "ROG Strix Scar 17 X3D",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "category": "headphones",
+      "category": "Headphones",
       "manufacturer": "Apple",
       "title": "AirPods Pro 2",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -92,7 +92,7 @@
     },
     {
       "id": 10,
-      "category": "smartwatches",
+      "category": "Smartwatches",
       "manufacturer": "Apple",
       "title": "Watch 9",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -102,7 +102,7 @@
     },
     {
       "id": 11,
-      "category": "smartwatches",
+      "category": "Smartwatches",
       "manufacturer": "Apple",
       "title": "Watch Ultra Series 2 GPS",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
@@ -112,7 +112,7 @@
     },
     {
       "id": 12,
-      "category": "smartphones",
+      "category": "Smartphones",
       "manufacturer": "Apple",
       "title": "Iphone 15 Pro",
       "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",

@@ -1,0 +1,108 @@
+.productDetails {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--colorMain);
+    padding: 100px 0;
+
+    .productDetails-inner {
+        width: 100%;
+        display: flex;
+        align-items: center;
+
+        .details-texts {
+            width: 700px;
+            h1 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            img {
+                margin-bottom: 10px;
+            }
+
+            p {
+                margin-top: 10px;
+            }
+
+            h5 {
+                color: red;
+                font-size: 24px;
+            }
+
+            span {
+                text-decoration: line-through;
+                color: #676767;
+                font-size: 24px;
+            }
+
+            button {
+                width: 140px;
+                height: 45px;
+                background-color: red;
+                border-radius: 6px;
+                border: none;
+                color: #fff;
+                font-size: 24px;
+                margin-top: 10px;
+            }
+
+            button:hover {
+                border: 1px solid #000;
+                color: #000;
+                background: none;
+                transition: 0.3s;
+            }
+        }
+    }
+}
+@media screen and (max-width: 578px) {
+    .productDetails{
+        padding: 200px 20px;
+        .productDetails-inner{
+            padding: 10px 0;
+            border-top: 1px solid gray;
+            width: 100%;
+            flex-wrap: wrap;
+            .details-img{
+                width: 100%;
+                text-align: center;
+                img{
+                    width: 40%;
+                }
+            }
+            .details-texts{
+                width: 100%;
+                h1{
+                    font-size: 25px;
+                }
+                .details-qty{
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    button{
+                        width: 70%!important;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (min-width: 579px) and (max-width: 768px) {
+    .productDetails{
+        padding: 200px 20px;
+        .productDetails-inner{
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .productDetails{
+        padding: 200px 100px;
+        .productDetails-inner{
+            width: 100%;
+        }
+    }
+}
