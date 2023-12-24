@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "smartphones",
+      "manufacturer": "Apple",
+      "title": "Iphone 15 Pro Max",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 4249,
+      "discountPrice": 3799,
+      "image": "https://i5.walmartimages.com/seo/AT-T-Apple-iPhone-15-Pro-Max-256GB-Blue-Titanium_c5cd208a-a582-4a0b-9030-b484f3cfbee9.ac4fb383f6ec8f7f321ece6b4b807f48.jpeg"
+    },
+    {
+      "id": 2,
+      "category": "laptops",
+      "manufacturer": "Apple",
+      "title": "Macbook Pro M3 Pro",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 4449,
+      "discountPrice": 3999,
+      "image": "https://images.macrumors.com/t/Au-OUIb73hHvx2w8CirAir5bNbM=/1600x/article-new/2013/09/macbook-air-m2-roundup-header.png"
+    },
+    {
+      "id": 3,
+      "category": "laptops",
+      "manufacturer": "ASUS",
+      "title": "Zenbook 14x OLED",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 2499,
+      "discountPrice": 2199,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4c83c2f0-1589-4c21-80be-19ca38c2129d/"
+    },
+    {
+      "id": 4,
+      "category": "laptops",
+      "manufacturer": "ASUS",
+      "title": "Zenbook 15 OLED",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 2199,
+      "discountPrice": 1999,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1cfdc924-8d5b-47f0-b03a-96de6377bfc0/"
+    },
+    {
+      "id": 5,
+      "category": "smartphones",
+      "manufacturer": "ASUS",
+      "title": "Zenfone 10",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 1399,
+      "discountPrice": 1299,
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/08/untitled-design-background-removed-16.png"
+    },
+    {
+      "id": 6,
+      "category": "monitors",
+      "manufacturer": "AOC",
+      "title": "AGON G27Q2S",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 899,
+      "discountPrice": 799,
+      "image": "https://mmd-aoc2.oss-cn-hongkong.aliyuncs.com/Products/Monitors/G%20Line/G2/Q27G2S/Q27G2S_F.png"
+    },
+    {
+      "id": 7,
+      "category": "monitors",
+      "manufacturer": "ASUS",
+      "title": "ROG Swift OLED PG27AQDM",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 2149,
+      "discountPrice": 1899,
+      "image": "https://dlcdnwebimgs.asus.com/gain/D2084F22-4A81-477D-B639-418CEFCE3763/w250"
+    },
+    {
+      "id": 8,
+      "category": "laptops",
+      "manufacturer": "ASUS",
+      "title": "ROG Strix Scar 17 X3D",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 8999,
+      "discountPrice": 7999,
+      "image": "https://dlcdnwebimgs.asus.com/gain/C5AC45C9-4B93-430A-9B20-98AF3C75E9C6"
+    },
+    {
+      "id": 9,
+      "category": "headphones",
+      "manufacturer": "Apple",
+      "title": "AirPods Pro 2",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 699,
+      "discountPrice": 649,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985"
+    },
+    {
+      "id": 10,
+      "category": "smartwatches",
+      "manufacturer": "Apple",
+      "title": "Watch 9",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 1199,
+      "discountPrice": 999,
+      "image": "https://bytelecom.az/media/2023/09/26/product_images/25496/apple-watch-9-45-midnight-1.jpg"
+    },
+    {
+      "id": 11,
+      "category": "smartwatches",
+      "manufacturer": "Apple",
+      "title": "Watch Ultra Series 2 GPS",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 2199,
+      "discountPrice": 1899,
+      "image": "https://ee.co.uk/medias/apple-watch-ultra-2-blue-ocean-band-desktop1-WebP-Format-488?context=bWFzdGVyfHJvb3R8MjIxMTh8aW1hZ2Uvd2VicHxzeXMtbWFzdGVyL3Jvb3QvaGVhL2g4ZC8xMDA3MzkxNTc1MjQ3OC9hcHBsZS13YXRjaC11bHRyYS0yLWJsdWUtb2NlYW4tYmFuZC1kZXNrdG9wMV9XZWJQLUZvcm1hdC00ODh8N2JlOTdkNDliODI0OGM1OWEyMzI3N2VlMDI3NDc0ZWFhNzNkOGQxYzNmYjM4NWQ4YjIzZGNiNzM0ZDBiZmVjOA"
+    },
+    {
+      "id": 12,
+      "category": "smartphones",
+      "manufacturer": "Apple",
+      "title": "Iphone 15 Pro",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, quasi eaque repellendus corrupti officia perspiciatis sit labore veritatis ipsam fugit amet? Itaque nobis beatae dolore dignissimos. Commodi voluptatem vitae distinctio",
+      "price": 3979,
+      "discountPrice": 3529,
+      "image": "https://toppng.com/uploads/preview/apple-iphone-15-pro-max-black-titanium-hd-png-116950412067brb7ndyv3.png"
+    }
+  ],
+  "contacts": []
+}
