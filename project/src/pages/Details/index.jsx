@@ -1,8 +1,8 @@
 import React from 'react'
-import useFetchData from '../../hooks/useFetchData'
 import "./index.scss";
 import { useParams } from 'react-router-dom'
 import Stars from "../../assets/Frame 922.png"
+import useFetchData from '../../hooks/UseFetchData';
 
 const Detail = () => {
     const {id} = useParams()
@@ -11,7 +11,7 @@ const Detail = () => {
     return (
     <div className="productDetails">
           <div className="productDetails-inner">
-            <div className="details-img">
+            <div style={{width: "700px"}} className="details-img">
               <img style={{width: "80%", height: "80%"}} src={data.image} alt="" />
             </div>
             <div className="details-texts">

@@ -22,8 +22,8 @@ const Navbar = () => {
                     <input type="text" placeholder='What are you looking for?' />
                     <HiMagnifyingGlass id='magnify' />
                 </div>
-                <CiHeart id='heart' />
-                <Link to={"/cart"}><CiShoppingCart id='basket' /></Link>
+                <Link to={"/wishlist"}><CiHeart id='heart'></CiHeart></Link>
+                <Link><CiShoppingCart id='basket' /></Link>
             </div>
         </div>
     </nav>
