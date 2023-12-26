@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import { CiHeart } from "react-icons/ci";
 import { CiShoppingCart } from "react-icons/ci";
 import { HiMagnifyingGlass } from "react-icons/hi2";
-
+import { CiUser } from "react-icons/ci";
 
 const Navbar = () => {
   return (
@@ -24,6 +24,7 @@ const Navbar = () => {
                 </div>
                 <Link to={"/wishlist"}><CiHeart id='heart'></CiHeart></Link>
                 <Link><CiShoppingCart id='basket' /></Link>
+                <Link><CiUser id='user' /></Link>
             </div>
         </div>
     </nav>

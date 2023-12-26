@@ -1,7 +1,7 @@
 .filter-main-container {
-    width: 25%;
+    // max-width: 30%;
     border-right: 1px solid #00000032;
-    padding-right: 30px;
+    padding-right: 10px;
 
     .filter {
         width: 100%;
@@ -18,13 +18,13 @@
             align-items: center;
 
             #faAngel {
-                width: 24px;
-                height: 24px;
+                width: 16px;
+                height: 16px;
                 cursor: pointer;
             }
 
             span {
-                font-size: 16px;
+                font-size: 12px;
                 font-weight: 500;
             }
         }
